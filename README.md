@@ -1,2 +1,4 @@
 # Stopwatch
-Stopwatch in C
+A simple stopwatch implementation in C.
+
+Windows only for now.
